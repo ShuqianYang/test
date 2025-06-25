@@ -5,3 +5,4 @@ https://github.com/milvus-io/bootcamp/blob/master/integration/build_RAG_with_mil
 https://github.com/milvus-io/bootcamp/blob/master/integration/build_RAG_with_milvus_and_deepseek.ipynb
 
 https://github.com/milvus-io/milvus-docs/releases/download/v2.4.6-preview/milvus_docs_2.4.x_en.zip
+
