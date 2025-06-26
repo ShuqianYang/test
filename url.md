@@ -6,3 +6,5 @@ https://github.com/milvus-io/bootcamp/blob/master/integration/build_RAG_with_mil
 
 https://github.com/milvus-io/milvus-docs/releases/download/v2.4.6-preview/milvus_docs_2.4.x_en.zip
 
+9bc55a54a98707fdc6a97e40d091e9b87e1c1dcb
+
